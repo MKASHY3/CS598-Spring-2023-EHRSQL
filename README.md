@@ -16,7 +16,7 @@ As part of the course CS598: Deep Learning for Healthcare in Spring 2023, I chos
 
 3) Set up public key to access my Git repo in the ec2 instance: 
 https://medium.com/coder-life/practice-2-host-your-website-on-github-pages-39229dc9bb1b
-4) Made sure to use sudo access / root user on ec2: ```sudo su``
+4) Made sure to use sudo access / root user on ec2: ```sudo su```
 5) Connect to my Git repo with ssh on my ec2 instance 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account 
 6) Install anaconda on ec2 instance:
